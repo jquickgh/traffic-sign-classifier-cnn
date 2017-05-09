@@ -1,6 +1,10 @@
 # Traffic Sign Classifier
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+[Project Code](https://github.com/jquickgh/CarND-Traffic-Sign-Classifier/blob/master/P2_Final.ipynb)
+
+[Project Writeup](https://github.com/jquickgh/CarND-Traffic-Sign-Classifier/blob/master/README.ipynb)
+
 Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
 
 [//]: # (Image References)
@@ -21,6 +25,4 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
-[Project Code](https://github.com/jquickgh/CarND-Traffic-Sign-Classifier/blob/master/P2_Final.ipynb)
 
-[Project Writeup](https://github.com/jquickgh/CarND-Traffic-Sign-Classifier/blob/master/README.ipynb)
